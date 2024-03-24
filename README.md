@@ -1,13 +1,15 @@
 # "fit-genius"
 Projet de PFA
 
-# Projet en cours de realisation par : 
+## Projet en cours de realisation par : 
 
 Yassine Elfoughali
+
 Meryem Mellagui 
+
 Soukaina Timmouch
 
-# Fonctionnalites propose:
+## Fonctionnalites propose:
 
 Fonctionnalites 1 : En tant qu'utilisateur , je peux créer un compte en utilisant mon email et un mot de passe sécurisé afin d'accéder aux fonctionnalités de l'application.
 
@@ -35,11 +37,11 @@ Technologies:
 Python
 Flutter
 
-# Installation et Execution de l'application web :
+## Installation et Execution de l'application web :
 
 
 
-# Date de sortie du  l'applicaion :
+## Date de sortie du  l'applicaion :
 
 
 
