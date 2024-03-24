@@ -1,7 +1,7 @@
 # "fit-genius"
 Projet de PFA
 
-#Projet en cours de realisation par : 
+# Projet en cours de realisation par : 
 
 Yassine Elfoughali
 Meryem Mellagui 
@@ -35,11 +35,11 @@ Technologies:
 Python
 Flutter
 
-#Installation et Execution de l'application web :
+# Installation et Execution de l'application web :
 
 
 
-#Date de sortie du  l'applicaion :
+# Date de sortie du  l'applicaion :
 
 
 
