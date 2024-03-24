@@ -35,5 +35,11 @@ Technologies:
 Python
 Flutter
 
+#Installation et Execution de l'application web :
+
+
+
+#Date de sortie du  l'applicaion :
+
 
 
