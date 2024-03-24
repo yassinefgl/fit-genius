@@ -33,8 +33,9 @@ Fonctionnalites 10 : En tant qu'utilisateur, je peux recevoir des notifications 
 
 Fonctionnalites 11 : En tant qu'utilisateur, je peux personnaliser les paramètres de notification selon mes préférences.
 
-Technologies:
+## Technologies:
 Python
+
 Flutter
 
 ## Installation et Execution de l'application Mobile :
