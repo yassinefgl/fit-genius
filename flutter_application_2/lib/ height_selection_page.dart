@@ -29,7 +29,7 @@ class _HeightSelectionPageState extends State<HeightSelectionPage> {
               "What's Your Height?",
               style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
             ),
-            SizedBox(height: 10),
+            SizedBox(height: 20),
             Text(
               "How tall are you?",
               style: TextStyle(fontSize: 16, color: Colors.grey),
