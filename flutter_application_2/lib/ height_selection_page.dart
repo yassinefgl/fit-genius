@@ -21,7 +21,7 @@ class _HeightSelectionPageState extends State<HeightSelectionPage> {
         ),
       ),
       body: Padding(
-        padding: const EdgeInsets.symmetric(horizontal: 20.0),
+        padding: const EdgeInsets.symmetric(horizontal: 21.0),
         child: Column(
           children: <Widget>[
             SizedBox(height: 20),
