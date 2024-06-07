@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "961514152543",
+    "project_id": "pfaapp-28590",
+    "storage_bucket": "pfaapp-28590.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961514152543:android:68645063e76bbabf5b71ea",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByhvXnKJvgb1N2MJ7ZOIMQRLL3sCdCOaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
